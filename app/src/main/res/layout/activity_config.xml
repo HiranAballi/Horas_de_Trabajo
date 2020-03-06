@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".ConfigActivity"
+    android:background="@color/colorScreenBackground">
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="7dp"
+        android:layout_marginLeft="7dp"
+        android:layout_marginTop="7dp"
+        android:layout_marginEnd="7dp"
+        android:layout_marginRight="7dp"
+        android:digits="1234567890."
+        android:ems="10"
+        android:hint="@string/horas_trabajo"
+        android:inputType="numberDecimal"
+        android:maxLength="3"
+        android:singleLine="true" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/confirm" />
+
+</LinearLayout>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registro de Horas</string>
+    <string name="confirm">Confirmar</string>
+    <string name="dinero">Total</string>
+
+    <string name="hint_word">Hora...</string>
+    <string name="horas_trabajo">Dinero por Hora</string>
+    <string name="setting">Configuración</string>
+
+    <string name="euro">€</string>
+    <string name="empty_not_saved">Hora no guardada, porque estaba vacío...</string>
+    <string name="button_save">Guardar</string>
+
+    <string name="confirmation">Seguro que quieres eliminar las horas guardadas, porque ellas no se podrán recuperar</string>
+    <string name="lenguage">Lenguajes</string>
+    <string name="str_en">Inglés</string>
+    <string name="str_es">Español</string>
+    <string name="str_pt">Portugués</string>
+    <string name="toast">Error, diga las la cantidad a pagar por horas</string>
+
+</resources>

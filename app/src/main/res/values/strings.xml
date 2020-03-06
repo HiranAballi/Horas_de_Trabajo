@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">.</string>
+    <string name="euro">.</string>
+    <string name="dinero">.</string>
+    <string name="hint_word">.</string>
+
+    <string name="button_save">.</string>
+    <string name="empty_not_saved">.</string>
+    <string name="confirmation">.</string>
+    <string name="horas_trabajo">.</string>
+
+    <string name="confirm">.</string>
+    <string name="setting">.</string>
+    <string name="welcome_image" translatable="false">Welcome Image</string>
+    <string name="str_en">.</string>
+
+    <string name="str_es">.</string>
+    <string name="str_pt">.</string>
+    <string name="lenguage">.</string>
+    <string name="toast">.</string>
+
+</resources>

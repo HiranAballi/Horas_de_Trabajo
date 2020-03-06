@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.registro.horasdetrabajo">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_time_and_date"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ic_time_and_date"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.registro.horasdetrabajo.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.registro.horasdetrabajo.NewHoraActivity" />
+        <activity android:name="com.registro.horasdetrabajo.ConfigActivity" />
+        <activity android:name="com.registro.horasdetrabajo.MainActivity">
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Work Hours Record</string>
+    <string name="button_save">Save</string>
+    <string name="confirm">Confirm</string>
+    <string name="confirmation">Surely you want to eliminate the hours entered,
+        then they will not be able to recover</string>
+
+    <string name="dinero">Total</string>
+    <string name="empty_not_saved">Hour not saved because it is empty.</string>
+    <string name="euro">€</string>
+    <string name="hint_word">Hour...</string>
+
+    <string name="horas_trabajo">Money per Hour</string>
+    <string name="lenguage">Lenguages</string>
+    <string name="setting">Settings</string>
+    <string name="str_en">English</string>
+
+    <string name="str_es">Spanish</string>
+    <string name="str_pt">Portuguese</string>
+    <string name="toast">Error, say the amount to pay by the hour.</string>
+
+</resources>
