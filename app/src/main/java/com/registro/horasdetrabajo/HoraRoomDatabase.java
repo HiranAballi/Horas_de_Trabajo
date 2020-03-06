@@ -49,11 +49,11 @@ public abstract class HoraRoomDatabase extends RoomDatabase {
         return INSTANCE;
     }
 
-    // Para eliminar todo el contenido y repoblar la base de datos cada vez que se inicia
+    // Para eliminar tod* el contenido y repoblar la base de datos cada vez que se inicia
     // la aplicación, cree un RoomDatabase.Callback y anule el método onOpen (). Como no puede
     // realizar operaciones de la base de datos de Room en el subproceso de la interfaz de
     // usuario, onOpen () crea y ejecuta una AsyncTask para agregar contenido a la base de datos.
-    // Para eliminar todo el contenido y repoblar la base de datos cada vez que se inicia la
+    // Para eliminar tod* el contenido y repoblar la base de datos cada vez que se inicia la
     // aplicación, cree un RoomDatabase.Callback y anule el método onOpen (). Como no puede
     // realizar operaciones de la base de datos de Room en el subproceso de la interfaz de
     // usuario, onOpen () crea y ejecuta una AsyncTask para agregar contenido a la base de datos.
